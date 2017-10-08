@@ -3,12 +3,17 @@
   text-align: center;
 }
 
+body {
+  background-repeat: no-repeat;
+  background-position: top, center;
+}
+
 .top-section {
   color: white;
 }
 
-.nav-text {
-  font-size: 18px;
+.nav-text, a {
+  color: white;
 }
 
 h1 {
@@ -17,26 +22,22 @@ h1 {
 
 }
 
-.middle-section {
-  background-color: white;
-
-}
-
 h3 {
   font-size: 32px
   font-wight: bold;
-}
-
-h5 {
-  font-size: 23px
-  font-weight: bold;
 }
 
 h6 {
   font-size: 14px;
 }
 
-.copy-right {
+#copy-right {
   text-align: left;
   font-size: 11px;
+}
+
+.bottom-nav, a {
+  text-align: left;
+  color: black;
+  font-size: 14px;
 }
