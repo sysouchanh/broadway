@@ -2,3 +2,18 @@
   font-family: Helvetica;
   text-align: center;
 }
+
+.top-section {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+.middle-section {
+  background-color: white;
+
+}
