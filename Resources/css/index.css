@@ -7,6 +7,10 @@
   color: white;
 }
 
+.nav-text {
+  font-size: 18px;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -16,4 +20,23 @@ h1 {
 .middle-section {
   background-color: white;
 
+}
+
+h3 {
+  font-size: 32px
+  font-wight: bold;
+}
+
+h5 {
+  font-size: 23px
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.copy-right {
+  text-align: left;
+  font-size: 11px;
 }
