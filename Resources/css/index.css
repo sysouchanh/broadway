@@ -6,28 +6,33 @@
 body {
   background-repeat: no-repeat;
   background-position: top, center;
+  background-size: 1830px 325px;
+
 }
 
-.top-section {
+.menu, a {
+  flex-direction: column;
   color: white;
-}
-
-.nav-text, a {
-  color: white;
+  font-size: 18px;
 }
 
 h1 {
+  color: white;
   font-size: 70px;
   font-weight: bold;
-
 }
 
-h3 {
-  font-size: 32px
-  font-wight: bold;
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
 
-h6 {
+.h3 {
+  font-size: 23px
+  font-weight: bold;
+}
+
+p {
   font-size: 14px;
 }
 
@@ -36,8 +41,12 @@ h6 {
   font-size: 11px;
 }
 
-.bottom-nav, a {
+.footer, a {
   text-align: left;
-  color: black;
+  color: white;
   font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
 }
