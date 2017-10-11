@@ -3,16 +3,10 @@
   text-align: center;
 }
 
-body {
-  background-repeat: no-repeat;
-  background-position: top, center;
-  background-size: 1830px 325px;
-
-}
-
 .menu, a {
   color: white;
   font-size: 18px;
+
 }
 
 h1 {
@@ -30,7 +24,6 @@ h2 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: dimgray;
 }
 
 h3 {
